@@ -1,3 +1,3 @@
 # Ayoyoyo
 
-Hello lad's this is my first github commit
+Hello lad this is my first Github commit!
